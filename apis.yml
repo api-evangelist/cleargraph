@@ -30,7 +30,7 @@ x-tier-reason: portfolio-lead
 x-status: inactive
 x-status-evidence: 'cleargraph.com 301->offsite; cleargraph.io ECONNREFUSED; github.com/cleargraph
   archived 2026-04-16; npm cleargraph packages are unrelated third-party libs'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
