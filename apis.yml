@@ -24,13 +24,13 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cleargraph.png
 name: Cleargraph
 description: Cleargraph was a Palo Alto, California startup building natural-language and graph-based
-  search over data, operating under the tagline "Data Accessible through Search." It was backed by
-  Version One Ventures and appears in the API Evangelist network as a portfolio lead. As of this
-  enrichment pass the company is inactive - its primary domain cleargraph.com now 301-redirects
-  off-site, its cleargraph.io website no longer resolves (connection refused), and its GitHub
-  organization (github.com/cleargraph) was archived in April 2026 and holds only forked libraries
-  with no first-party API, SDK, or specification. No live API, developer portal, documentation, or
-  first-party package surface could be verified during enrichment, so no API artifacts were generated.
+  search over data, operating under the tagline "Data Accessible through Search." It was backed by Version
+  One Ventures and appears in the API Evangelist network as a portfolio lead. As of this enrichment pass
+  the company is inactive - its primary domain cleargraph.com now 301-redirects off-site, its cleargraph.io
+  website no longer resolves (connection refused), and its GitHub organization (github.com/cleargraph)
+  was archived in April 2026 and holds only forked libraries with no first-party API, SDK, or specification.
+  No live API, developer portal, documentation, or first-party package surface could be verified during
+  enrichment, so no API artifacts were generated.
 url: https://raw.githubusercontent.com/api-evangelist/cleargraph/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -38,12 +38,12 @@ x-backed-by:
 - version-one-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: inactive
-x-status-evidence: 'cleargraph.com 301->offsite; cleargraph.io ECONNREFUSED; github.com/cleargraph
-  archived 2026-04-16; npm cleargraph packages are unrelated third-party libs'
+x-status: defunct
+x-status-evidence: cleargraph.com 301->offsite; cleargraph.io ECONNREFUSED; github.com/cleargraph archived
+  2026-04-16; npm cleargraph packages are unrelated third-party libs
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-09-15'
 tags:
 - Company
 - Data
